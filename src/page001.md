@@ -1,5 +1,13 @@
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Page 001](#page-001)
+  - [A Mexican man who spoke no English went into a department store to buy socks.](#a-mexican-man-who-spoke-no-english-went-into-a-department-store-to-buy-socks)
+  - [A wife decides to take her husband, Dave, to a strip club for his birthday.](#a-wife-decides-to-take-her-husband-dave-to-a-strip-club-for-his-birthday)
+  - [Dave knows everybody and everybody knows Dave.](#dave-knows-everybody-and-everybody-knows-dave)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Page 001
 
