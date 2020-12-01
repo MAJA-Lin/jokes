@@ -7,7 +7,6 @@
 
 ## A Mexican man who spoke no English went into a department store to buy socks.
 
----
 
 A Mexican man who spoke no English went into a department store to buy socks.
 
@@ -44,11 +43,12 @@ Holding them up he proclaimed, **"Eso sí que es!"**
 >
 > Explaination: **Eso sí que es** sounds very similar to spelling **SOCKS**.
 
----
+<br>
+
 
 ## A wife decides to take her husband, Dave, to a strip club for his birthday.
 
----
+
 They arrive at the club and the doorman says, "Hey, Dave! How ya doin'?"
 
 His wife is puzzled and asks if hes been to this club before.
@@ -76,13 +76,11 @@ The cabby turns his head and says, "Looks like you picked up a real bitch tonigh
 
 > REF: https://www.reddit.com/r/Jokes/comments/k1gybx/a_wife_decides_to_take_her_husband_dave_to_a/
 
+<br>
 
-
----
 
 ## Dave knows everybody and everybody knows Dave.
 
----
 
 Dave was bragging to his boss one day, "You know, I know everyone there is to know. Just name someone, anyone, and I know them."
 Tired of his boasting, his boss called his bluff, "OK, Dave, how about Tom Cruise?"
@@ -110,3 +108,4 @@ His boss looks up and says, "It was the final straw... you and the Pope came out
 
 > REF: https://www.reddit.com/r/Jokes/comments/k1gybx/a_wife_decides_to_take_her_husband_dave_to_a/
 
+<br>
