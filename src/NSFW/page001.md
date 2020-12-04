@@ -54,3 +54,61 @@ This time the priest consented and after a few minutes of fondling he was sporti
 > REF: https://www.reddit.com/r/Jokes/comments/k0yhco/nsfw_a_nun_and_a_priest_are_crossing_the_sahara/
 
 <br>
+
+
+## I Asked My Masseuse If It Was Normal To Get An Erection During My Massage
+
+
+He said it was perfectly normal.
+
+I said, “Ok, but could you at least stop bumping it into me?”
+
+> REF: https://www.reddit.com/r/Jokes/comments/k64l4v/i_asked_my_masseuse_if_it_was_normal_to_get_an/
+
+
+<br>
+
+
+##  I Went To Get A Physical The Other Day
+
+
+And the doctor told me I needed to stop masturbating.
+
+I asked "why?"
+
+He said "because I'm trying to give you a physical"
+
+
+<br>
+
+
+## A Doctor Is Giving A Physical
+
+
+And once he gets to the prostate exam, he sticks a finger up the patient’s ass.
+
+The doctor tells the patient that it’s perfectly normal to get an erection during this exam.
+
+The patient says, “I don’t have an erection.”
+
+The doctor goes, “Yes, but I have.”
+
+<br>
+
+
+
+## A Teacher Asks The Kids In Her 3rd Grade Class: "What do you want to be when you grow up?"
+
+
+Little Johnny says: "I wanna start out as a Fighter Pilot, then be a billionaire, go to the most expensive clubs, find me the finest whore, give her a Ferrari worth over a million bucks, an apartment in Copacabana, a mansion in Paris, a jet to travel throughout Europe, an Infinite Visa Card, and all the while banging her like a loose screen door in a hurricane."
+
+The teacher, shocked and not knowing what to do with this horrible response from little Johnny, decides not to acknowledge what he said and simply tries to continue with the lesson
+
+"And how about you, Sarah?"
+
+"I wanna be Johnny's whore"
+
+> REF: https://www.reddit.com/r/Jokes/comments/k3vww4/a_teacher_asks_the_kids_in_her_3rd_grade_class/
+
+<br>
+
