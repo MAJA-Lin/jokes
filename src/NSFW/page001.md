@@ -4,6 +4,10 @@
 
 - [NSFW / Page 001](#nsfw--page-001)
   - [A Nun And A Priest Are Crossing The Sahara Desert On A Camel.](#a-nun-and-a-priest-are-crossing-the-sahara-desert-on-a-camel)
+  - [I Asked My Masseuse If It Was Normal To Get An Erection During My Massage](#i-asked-my-masseuse-if-it-was-normal-to-get-an-erection-during-my-massage)
+  - [I Went To Get A Physical The Other Day](#i-went-to-get-a-physical-the-other-day)
+  - [A Doctor Is Giving A Physical](#a-doctor-is-giving-a-physical)
+  - [A Teacher Asks The Kids In Her 3rd Grade Class: "What do you want to be when you grow up?"](#a-teacher-asks-the-kids-in-her-3rd-grade-class-what-do-you-want-to-be-when-you-grow-up)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
