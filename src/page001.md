@@ -7,6 +7,7 @@
   - [A wife decides to take her husband, Dave, to a strip club for his birthday.](#a-wife-decides-to-take-her-husband-dave-to-a-strip-club-for-his-birthday)
   - [Dave knows everybody and everybody knows Dave.](#dave-knows-everybody-and-everybody-knows-dave)
   - [A Chinese Doctor Cannot Find A Job In A Hospital In America, So He Opens A Clinic](#a-chinese-doctor-cannot-find-a-job-in-a-hospital-in-america-so-he-opens-a-clinic)
+  - [Judge: How could you kill 24 people? What the hell was wrong with you?](#judge-how-could-you-kill-24-people-what-the-hell-was-wrong-with-you)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -157,5 +158,21 @@ Chinese: "Congrats, your eyesight is restored. Give me $20"
 
 
 > REF: https://www.reddit.com/r/Jokes/comments/k6gl5l/a_chinese_doctor_cant_find_a_job_in_a_hospital_in/
+
+<br>
+
+
+
+## Judge: How could you kill 24 people? What the hell was wrong with you?
+
+Driver:I was driving at 50mph when I saw two men crossing the road. On the roadside, there was a restaurant with outside seating. I wanted to apply the brakes, but I realised they were not working. So I had to take a decision: Either hit the 2 men or run into the restaurant.
+
+Judge: Hit the 2 men of course!
+
+Driver: Exactly! After hitting the first man, the other man ran inside the restaurant so l followed him.
+
+
+> REF: https://www.reddit.com/r/Jokes/comments/k7h57e/judge_how_could_you_kill_24_people_what_the_hell/
+
 
 <br>
