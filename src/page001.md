@@ -8,6 +8,7 @@
   - [Dave knows everybody and everybody knows Dave.](#dave-knows-everybody-and-everybody-knows-dave)
   - [A Chinese Doctor Cannot Find A Job In A Hospital In America, So He Opens A Clinic](#a-chinese-doctor-cannot-find-a-job-in-a-hospital-in-america-so-he-opens-a-clinic)
   - [Judge: How could you kill 24 people? What the hell was wrong with you?](#judge-how-could-you-kill-24-people-what-the-hell-was-wrong-with-you)
+  - [I always wanted to be a multimillionaire, just like my dad.](#i-always-wanted-to-be-a-multimillionaire-just-like-my-dad)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -176,3 +177,16 @@ Driver: Exactly! After hitting the first man, the other man ran inside the resta
 
 
 <br>
+
+
+
+## I always wanted to be a multimillionaire, just like my dad.
+
+He always wanted to be a multimillionaire too.
+
+
+> REF: https://www.reddit.com/r/Jokes/comments/ka2bb2/i_always_wanted_to_be_a_multimillionaire_just/
+
+<br>
+
+
