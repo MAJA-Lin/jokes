@@ -8,6 +8,10 @@
   - [I Went To Get A Physical The Other Day](#i-went-to-get-a-physical-the-other-day)
   - [A Doctor Is Giving A Physical](#a-doctor-is-giving-a-physical)
   - [A Teacher Asks The Kids In Her 3rd Grade Class: "What do you want to be when you grow up?"](#a-teacher-asks-the-kids-in-her-3rd-grade-class-what-do-you-want-to-be-when-you-grow-up)
+  - [The cheating wife](#the-cheating-wife)
+  - [Three men died on Christmas Eve and were met by Saint Peter at the pearly gates.](#three-men-died-on-christmas-eve-and-were-met-by-saint-peter-at-the-pearly-gates)
+  - [An 85-year-old man was requested by his doctor for a sperm count as part of his physical exam.](#an-85-year-old-man-was-requested-by-his-doctor-for-a-sperm-count-as-part-of-his-physical-exam)
+  - [How bout a blowjob?](#how-bout-a-blowjob)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -115,4 +119,73 @@ The teacher, shocked and not knowing what to do with this horrible response from
 > REF: https://www.reddit.com/r/Jokes/comments/k3vww4/a_teacher_asks_the_kids_in_her_3rd_grade_class/
 
 <br>
+
+
+
+## The cheating wife
+
+A guy thought his wife was cheating on him.
+So he waited for her to leave that night and jumped in a cab to follow her.
+By following her he found out she was working in a whorehouse.
+The guy says to the cabbie, "Wanna make a $ 100?"
+The cabbie says, "Sure, what do I have to do?".
+The guy replied that all the cabbie has to do was go inside the whorehouse and grab his wife and put her in the back of the cab and take them home.
+So the cabbie goes in. A couple of minutes later the whore house gets kicked open, and the cabbie is dragging this woman out who is kicking, biting, punching, and fighting all the way to the cab.
+The cabbie opens the door to the cab, throws the girl inside, and tells the man, "Here, hold her!!"
+The man looks down at the girl and says to the cabbie, "THIS AIN'T MY WIFE".
+The cabbie replied, "I KNOW, IT'S MINE; I'M GOING BACK IN FOR YOURS!!".
+
+> REF: https://www.reddit.com/r/Jokes/comments/k8j7zl/the_cheating_wife/
+
+<br>
+
+
+
+## Three men died on Christmas Eve and were met by Saint Peter at the pearly gates.
+
+
+'In honor of this holy season' Saint Peter said, 'You must each possess something that symbolizes Christmas to get into heaven.'
+The Englishman fumbled through his pockets and pulled out a lighter. He flicked it on. 'It's a candle', he said.
+'You may pass through the pearly gates' Saint Peter said.
+The Scotsman reached into his pocket and pulled out a set of keys. He shook them and said, 'They're bells.'
+Saint Peter said 'You may pass through the pearly gates'.
+The Irishman started searching desperately through his pockets and finally pulled out a pair of women's panties.
+St. Peter looked at the man with a raised eyebrow and asked, 'And just what do those symbolize?'
+The paddy replied, 'These are Carols.'
+
+The fourth man took out a used condom. He said "it symbolizes Jesus". Pointing to the semen he said, "they died for our sins".
+
+
+> REF: https://www.reddit.com/r/Jokes/comments/k76fwv/three_men_died_on_christmas_eve_and_were_met_by/
+
+<br>
+
+
+
+## An 85-year-old man was requested by his doctor for a sperm count as part of his physical exam.
+
+The doctor gave the man a jar and said, "Take this jar home and bring back a semen sample tomorrow." The next day the 85-year-old man reappeared at the doctor's office and gave him the jar, which was as clean and empty as on the previous day.
+
+The doctor asked, what happened and the man explained. "Well, doc, it's like this--first I tried with my right hand, but nothing. Then I tried with my left hand, but still nothing. Then I asked my wife for help. She tried with her right hand, then with her left, still nothing. She tried with her mouth, first with the teeth in, then with her teeth out, still nothing. We even called up Arleen, the lady next door and she tried too, first with both hands, then an armpit, and she even tried squeezin' it between her knees, but still nothing." The doctor was shocked! "You asked your neighbor?" The old man replied, "Yep, none of us could get the jar open."
+
+> REF: https://www.reddit.com/r/Jokes/comments/kf6l47/an_85yearold_man_was_requested_by_his_doctor_for/
+
+
+<br>
+
+
+## How bout a blowjob?
+
+Two married buddies are out drinking one night when one turns to the other and says,
+"You know, I don't know what else to do. Whenever I go home after we've been out drinking, I turn the headlights off before I get to the driveway. I shut off the engine and coast into the garage. I take my shoes off before I go into the house, I sneak up the stairs, I get undressed in the bathroom.
+I ease into bed and my wife STILL wakes up and yells at me for staying out so late!"
+
+His buddy looks at him and says, "Well, you are obviously taking the wrong approach.
+I screech into the driveway, slam the door, storm up the steps, throw my shoes into the closet, jump into bed, rub my hands on my wife's ass and say, 'How about a blowjob?'
+.....And she always sounds asleep."
+
+> REF: https://www.reddit.com/r/Jokes/comments/k3tn0h/how_bout_a_blowjob/
+
+<br>
+
 
