@@ -9,6 +9,8 @@
   - [A Chinese Doctor Cannot Find A Job In A Hospital In America, So He Opens A Clinic](#a-chinese-doctor-cannot-find-a-job-in-a-hospital-in-america-so-he-opens-a-clinic)
   - [Judge: How could you kill 24 people? What the hell was wrong with you?](#judge-how-could-you-kill-24-people-what-the-hell-was-wrong-with-you)
   - [I always wanted to be a multimillionaire, just like my dad.](#i-always-wanted-to-be-a-multimillionaire-just-like-my-dad)
+  - [Air Force One crashed on a farm in Nebraska](#air-force-one-crashed-on-a-farm-in-nebraska)
+  - [Jack, a handsome man, walked into a sports bar around 9:58pm](#jack-a-handsome-man-walked-into-a-sports-bar-around-958pm)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -186,6 +188,62 @@ He always wanted to be a multimillionaire too.
 
 
 > REF: https://www.reddit.com/r/Jokes/comments/ka2bb2/i_always_wanted_to_be_a_multimillionaire_just/
+
+<br>
+
+
+## Air Force One crashed on a farm in Nebraska
+
+
+Panic stricken, the local sheriff mobilized and descended on the farm in force. When they got there, the disaster was clear. The aircraft was totally destroyed with only a burned hull left smoldering in a tree line that bordered a farm.
+
+The sheriff and his men entered the smoking mess but did not find the remains of anyone, including the President. They spotted a lone farmer ploughing a field not too far away as if nothing at all happened. They hurried over to the man's tractor.
+
+"Hank," the sheriff yelled, panting and out of breath. "Did you see this terrible accident happen?"
+
+"Yup. Sure did," the farmer said, cutting off his motor.
+
+"Do you realize that is the airplane of the President of the United States?"
+
+"Yup."
+
+"Were there any survivors?"
+
+"Nope. They're all kilt straight out. I done buried them all myself. Took me most of the morning."
+
+"Oh my god. President Trump is dead?"
+
+"Well," the farmer grumbled, restarting his tractor. "He kept a-saying he wasn't... but you know what a liar he is!"
+
+
+> REF: https://www.reddit.com/r/Jokes/comments/khs304/air_force_one_crashed_on_a_farm_in_nebraska/
+
+<br>
+
+
+## Jack, a handsome man, walked into a sports bar around 9:58pm
+
+
+He sat down next to this blonde at the bar and stared up at the TV as the 10:00 news came on. The news crew was covering a story of a man on a ledge of a large building preparing to jump.
+
+The blonde looked at Jack and said, "Do you think he'll jump?"
+
+Jack says, "You know what, I bet he will."
+
+The blonde replied, "Well, I bet he won't."
+
+Jack placed $50 on the bar and said, "You're on!"
+
+Just as the blonde placed her money on the bar, the guy did a swan dive off the building, falling to his death. The blonde was very upset and handed her $50 to Jack, saying, "Fair's fair... Here's your money."
+
+Jack replied, "I can't take your money, I saw this earlier on the 5 o'clock news and knew he would jump."
+
+The blonde replied, "I did too, but didn't think he'd do it again."
+
+Jack took the money.
+
+> REF: https://www.reddit.com/r/Jokes/comments/khe8e3/jack_a_handsome_man_walked_into_a_sports_bar/
+
 
 <br>
 
