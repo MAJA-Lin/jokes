@@ -13,6 +13,7 @@
   - [An 85-year-old man was requested by his doctor for a sperm count as part of his physical exam.](#an-85-year-old-man-was-requested-by-his-doctor-for-a-sperm-count-as-part-of-his-physical-exam)
   - [How bout a blowjob?](#how-bout-a-blowjob)
   - [There was a businessman whose wife was REALLY into sex.](#there-was-a-businessman-whose-wife-was-really-into-sex)
+  - [A homeless man bumped into a rich man outside a store on Christmas Eve.](#a-homeless-man-bumped-into-a-rich-man-outside-a-store-on-christmas-eve)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -300,3 +301,30 @@ The policeman then says,
 
 <br>
 
+
+## A homeless man bumped into a rich man outside a store on Christmas Eve.
+
+
+The homeless man asks the rich man, "What did you get for your wife this year?"
+
+The rich man replies, "Diamond earrings and a new Mercedes."
+
+The homeless man asks, "Why are you getting her two gifts?"
+
+The rich man says, "Well, if she doesn't like the earrings then she can drive to the store and exchange them."
+
+The homeless man nods.
+
+The rich man then turns to ask him, "Well, what did you get your wife this year?"
+
+The homeless man thinks about it for a second and replies, "A pair of slippers and a dildo."
+
+The rich man asks, "Why those two things?"
+
+The homeless man proudly says, "Well, if she don't like the slippers, then she can go fuck herself."
+
+
+> REF: https://www.reddit.com/r/Jokes/comments/kjquhl/one_christmas_morning_a_cop_on_horseback_is/ggye9g5/?utm_source=reddit&utm_medium=web2x&context=3
+
+
+<br>

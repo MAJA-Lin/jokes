@@ -11,6 +11,7 @@
   - [I always wanted to be a multimillionaire, just like my dad.](#i-always-wanted-to-be-a-multimillionaire-just-like-my-dad)
   - [Air Force One crashed on a farm in Nebraska](#air-force-one-crashed-on-a-farm-in-nebraska)
   - [Jack, a handsome man, walked into a sports bar around 9:58pm](#jack-a-handsome-man-walked-into-a-sports-bar-around-958pm)
+  - [A man is sitting in a new sports car when a little girl pulls up beside him on her new bicycle she just received for Christmas.](#a-man-is-sitting-in-a-new-sports-car-when-a-little-girl-pulls-up-beside-him-on-her-new-bicycle-she-just-received-for-christmas)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -243,6 +244,30 @@ The blonde replied, "I did too, but didn't think he'd do it again."
 Jack took the money.
 
 > REF: https://www.reddit.com/r/Jokes/comments/khe8e3/jack_a_handsome_man_walked_into_a_sports_bar/
+
+
+<br>
+
+
+
+## A man is sitting in a new sports car when a little girl pulls up beside him on her new bicycle she just received for Christmas.
+
+She knocks on his window, which he rolls down to see what she wants.
+
+"Wanna race, mister?" she asks, ringing her bell and twirling the elastic streamers on her handlebars.
+
+"Sure," the man laughs. The light turns green and he floors the pedal. The car takes off like a shot and he leaves the little girl in the dust.
+
+A few seconds later though, he sees something gaining on him in his mirror, fast. He just barely catches a glimpse of the little girl on her bike as she shoots past him. "She must be going 80 miles per hour!" he shouts, and shifts into a higher gear, pushing the car even faster.
+
+He quickly blasts past her as if she were standing still. But again, just a few seconds later, she shoots past him, now doing over a hundred miles an hour on her little bike. Going so fast, sparks and smoke are streaming from her training wheels.
+
+After another few seconds, he comes to a curve where he sees the little girl crashed in a heap on the side of the road. He pulls over and jumps out to see if she's okay. Miraculously she's survived. So he asks, "Why did you go so fast?"
+
+Just as she falls unconscious, the little girl replies, "my streamers got caught on your mirror!"
+
+
+> REF: https://www.reddit.com/r/Jokes/comments/kjquhl/one_christmas_morning_a_cop_on_horseback_is/
 
 
 <br>
