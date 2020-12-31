@@ -13,6 +13,7 @@
   - [Jack, a handsome man, walked into a sports bar around 9:58pm](#jack-a-handsome-man-walked-into-a-sports-bar-around-958pm)
   - [A man is sitting in a new sports car when a little girl pulls up beside him on her new bicycle she just received for Christmas.](#a-man-is-sitting-in-a-new-sports-car-when-a-little-girl-pulls-up-beside-him-on-her-new-bicycle-she-just-received-for-christmas)
   - [A local business was looking for office help.](#a-local-business-was-looking-for-office-help)
+  - [A blonde, a brunette, and a redhead walk into a restaurant.](#a-blonde-a-brunette-and-a-redhead-walk-into-a-restaurant)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -314,5 +315,43 @@ The dog looked at him straight in the face and said, "Meow."
 
 > REF: https://www.reddit.com/r/Jokes/comments/klzneg/a_local_business_was_looking_for_office_help_they/
 
+
+<br>
+
+
+## A blonde, a brunette, and a redhead walk into a restaurant.
+
+
+They are having a fun time and give their waitress a huge tip.
+
+Super excited about the tip, the waitress decides to tell them a secret:
+
+In the women's bathroom, there is a magical mirror.
+If you tell it something truthful, you will be greatly rewarded.
+However, if you lie to the mirror, you will disappear in a poof."
+
+Excited to try this mirror out, the women rush to the restroom.
+The brunette decides to show off and claim she is the most beautiful girl there.
+
+"I think I'm the most beautiful person at this restaurant."
+
+A million dollars appears in her hands.
+
+The redhead is feeling a little offended.
+She decides to show off how smart she is:
+
+"I think I'm the smartest person in this restaurant."
+
+The keys to a lamborghini magically show up in her purse.
+
+The blonde, super excited to get something really cool,
+starts to tell the mirror something:
+
+"I think--"
+
+Poof. she is never seen again.
+
+
+> REF: https://www.reddit.com/r/Jokes/comments/kngxkr/a_blonde_a_brunette_and_a_redhead_walk_into_a/
 
 <br>
