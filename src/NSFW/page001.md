@@ -14,6 +14,8 @@
   - [How bout a blowjob?](#how-bout-a-blowjob)
   - [There was a businessman whose wife was REALLY into sex.](#there-was-a-businessman-whose-wife-was-really-into-sex)
   - [A homeless man bumped into a rich man outside a store on Christmas Eve.](#a-homeless-man-bumped-into-a-rich-man-outside-a-store-on-christmas-eve)
+  - [Jack and Betty are celebrating their 50th wedding anniversary.](#jack-and-betty-are-celebrating-their-50th-wedding-anniversary)
+  - [A limbless woman crying on the beach.](#a-limbless-woman-crying-on-the-beach)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -71,7 +73,7 @@ This time the priest consented and after a few minutes of fondling he was sporti
 
 He said it was perfectly normal.
 
-I said, “Ok, but could you at least stop bumping it into me?”
+I said, "Ok, but could you at least stop bumping it into me?"
 
 > REF: https://www.reddit.com/r/Jokes/comments/k64l4v/i_asked_my_masseuse_if_it_was_normal_to_get_an/
 
@@ -95,13 +97,13 @@ He said "because I'm trying to give you a physical"
 ## A Doctor Is Giving A Physical
 
 
-And once he gets to the prostate exam, he sticks a finger up the patient’s ass.
+And once he gets to the prostate exam, he sticks a finger up the patient's ass.
 
-The doctor tells the patient that it’s perfectly normal to get an erection during this exam.
+The doctor tells the patient that it's perfectly normal to get an erection during this exam.
 
-The patient says, “I don’t have an erection.”
+The patient says, "I don't have an erection."
 
-The doctor goes, “Yes, but I have.”
+The doctor goes, "Yes, but I have."
 
 <br>
 
@@ -328,3 +330,61 @@ The homeless man proudly says, "Well, if she don't like the slippers, then she c
 
 
 <br>
+
+
+## Jack and Betty are celebrating their 50th wedding anniversary.
+
+
+"Betty, I was wondering -- have you ever cheated on me?"
+
+"Oh Jack, why would you ask such a question now? You don't want to ask that question..."
+
+"Yes, Betty, I really want to know. Please."
+
+"Well, all right. Yes, 3 times."
+
+"Three? When were they?"
+
+"Well, Jack, remember when you were 35 years old and you really wanted to start the business on your own and no bank would give you a loan? Remember how one day the bank president himself came over to the house and signed the loan papers, no questions asked?"
+
+"Oh, Betty, you did that for me! I respect you even more than ever, that you would do such a thing for me! So, when was number 2?"
+
+"Well, Jack, remember when you had that last heart attack and you were needing that very tricky operation, and no surgeon would touch you? Remember how Dr. DeBakey came all the way up here, to do the surgery himself, and then you were in good shape again?"
+
+"I can't believe it! Betty, I love that you should do such a thing for me, to save my life! I couldn't have a more wonderful wife. To do such a thing, you must really love me darling. I couldn't be more moved. When was number 3?"
+
+"Well, Jack, remember a few years ago, when you really wanted to be president of the golf club and you were 17 votes short?"
+
+> REF: https://www.reddit.com/r/Jokes/comments/nnblq2/a_king_suspected_that_his_queen_was_being/gzu8lhn?utm_source=share&utm_medium=web2x&context=3
+
+<br>
+
+
+## A limbless woman crying on the beach.
+
+A limbless woman is sitting on the beach crying as a man approaches her.
+
+"What's wrong?" He asks.
+
+"I've never been hugged before..." she responds.
+
+The man hugs her and she stops crying for a second. Then the man walks away and the woman continues crying.
+
+A little while later, a second man approaches and asks the woman what the matter is.
+
+"I've never been kissed before." She tells him.
+
+The man kisses her and she stops crying briefly before he too walks away.
+
+Eventually, a third man approaches her and, again, asks her what the matter is.
+
+"I've never been fucked before." She says.
+
+The man stops and thinks for a second before scooping her up and throwing her into the ocean waves.
+
+"There, now you're fucked."
+
+> REF: https://www.reddit.com/r/Jokes/comments/no2sb1/a_limbless_woman_crying_on_the_beach/
+
+<br>
+
