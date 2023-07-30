@@ -16,6 +16,7 @@
   - [A homeless man bumped into a rich man outside a store on Christmas Eve.](#a-homeless-man-bumped-into-a-rich-man-outside-a-store-on-christmas-eve)
   - [Jack and Betty are celebrating their 50th wedding anniversary.](#jack-and-betty-are-celebrating-their-50th-wedding-anniversary)
   - [A limbless woman crying on the beach.](#a-limbless-woman-crying-on-the-beach)
+  - [A man had a **Long** penis](#a-man-had-a-long-penis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -387,4 +388,24 @@ The man stops and thinks for a second before scooping her up and throwing her in
 > REF: https://www.reddit.com/r/Jokes/comments/no2sb1/a_limbless_woman_crying_on_the_beach/
 
 <br>
+
+
+## A man had a **Long** penis
+
+A man had a 25" long penis and it created difficulties in his life as it was not easy to move around with it and women were afraid of him too. He also had a very high pitched voice.
+
+He went to see a doctor. "What can I do about my enormous penis?" he asked in a high pitched voice.
+
+The doctor examined him carefully. "Your penis is so large that you can't get any blood to your vocal chords. But we can do a penis transplant, to give you a normal sized penis, and that will fix your voice."
+
+The man thought about it. "Okay," he said in his high pitched voice.
+
+He woke up after the operation and he felt great. His new penis was a normal size. He could walk, he could run, and best of all, his voice was completely normal!
+
+But after a few weeks he realized having a 25-inch penis was pretty cool. Finally he went back to the doctor. "I've thought about it and I would like to undo the operation."
+
+"That's impossible," the doctor said in a high pitched voice.
+
+> REF: https://www.reddit.com/r/Jokes/comments/15c37p7/comment/jttxajm/
+
 
