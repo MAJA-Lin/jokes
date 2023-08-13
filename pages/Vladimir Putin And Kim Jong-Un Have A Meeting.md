@@ -18,5 +18,5 @@ language:: [[English]]
 		- "Get off me! I have wife and children!"
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- u/Anarchist_Monarch, "Vladimir Putin and Kim Jong-Un have a meeting, " *Reddit r/Jokes*, [[May 29th, 2021]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/nnqdxu/vladimir_putin_and_kim_jongun_have_a_meeting/](https://www.reddit.com/r/Jokes/comments/nnqdxu/vladimir_putin_and_kim_jongun_have_a_meeting/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
