@@ -1,6 +1,6 @@
 properties::
 rank::
-categories:: [[GA]]
+categories:: [[GA]], [[long]] 
 tags:: #husband, #wife, #dave
 language:: [[English]]
 
