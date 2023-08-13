@@ -14,7 +14,9 @@ language:: [[English]]
 		- 女店員正在準備打烊, 突然有個蒙面搶匪衝了進來, 拿著槍大喊"不許動! 把錢都拿出來放進袋子裡!"
 		- 女店員非常驚恐, "拜託你別開槍! 你要什麼我都會照做!"
 		- 搶匪大吼, "閉嘴! 快把收銀機裡的錢拿出來!"
-		  "我照做就是了, "
+		  "我家裡還有老公小孩, 你要我做什麼都可以, 拜託你別開槍!"
+		- 搶匪拿了錢後聽到這句話, 把槍放到女店員頭上, 然後要求幫他口交.
+		- 女店員看到槍指在她頭上, 非常的害怕, 只好勉為其難的答應.
 	- ## References
 		- u/hayeshilton, "How bout a blowjob?," *Reddit r/Jokes*, [[Nov 30th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k3tn0h/comment/ge5ktsy/](https://www.reddit.com/r/Jokes/comments/k3tn0h/comment/ge5ktsy/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
