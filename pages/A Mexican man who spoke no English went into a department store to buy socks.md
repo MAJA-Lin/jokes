@@ -2,7 +2,7 @@ properties::
 title:: A Mexican man who spoke no English went into a department store to buy socks
 rank::
 categories:: [[GA]] 
-tags:: #Mexican
+tags:: #Mexican, #pun, #homophonic 
 language:: [[English]]
 
 	- ## Content
@@ -24,5 +24,6 @@ language:: [[English]]
 		- "Why didn't you just spell it in the first place?!" yelled the salesgirl.
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- u/pradeep23, "A Mexican man who spoke no English went into a department store to buy socks," *Reddit r/Jokes*, [[Nov 21st, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/jxw4mw/a_mexican_man_who_spoke_no_english_went_into_a/](https://www.reddit.com/r/Jokes/comments/jxw4mw/a_mexican_man_who_spoke_no_english_went_into_a/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
+		-
