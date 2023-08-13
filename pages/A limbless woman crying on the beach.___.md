@@ -19,5 +19,5 @@ language:: [[English]]
 		- "There, now you're fucked."
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- u/Jurassic_Park00, "A limbless woman crying on the beach.," *Reddit r/Jokes*, [[May 30th, 2021]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/no2sb1/a_limbless_woman_crying_on_the_beach/](https://www.reddit.com/r/Jokes/comments/no2sb1/a_limbless_woman_crying_on_the_beach/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
