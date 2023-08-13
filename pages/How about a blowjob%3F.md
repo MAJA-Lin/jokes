@@ -2,7 +2,7 @@ properties::
 title::
 rank::
 categories:: [[NSFW]], [[long]] 
-tags:: #marriage
+tags:: #marriage, #blowjob
 language:: [[English]]
 
 	- ## Content
