@@ -10,7 +10,7 @@ alias:: Not Safe For Work
   :query [:find ?title
       :in $ ?current-page
       :where
-      (?p :title ?title)
+      [?p :page/title ?title]
       [?p :page/categories ?current-page]]
   :inputs [:current-page]}
   #+END_QUERY
