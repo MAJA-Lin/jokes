@@ -1,7 +1,7 @@
 properties::
 rank::
 categories:: [[GA]], [[long]] 
-tags:: #Christmas, #kids 
+tags:: #Christmas, #kids, #racing, [[car crash]] 
 language:: [[English]]
 
 	- ## Content
@@ -14,6 +14,7 @@ language:: [[English]]
 		- After another few seconds, he comes to a curve where he sees the little girl crashed in a heap on the side of the road. He pulls over and jumps out to see if she's okay. Miraculously she's survived. So he asks, "Why did you go so fast?"
 		- Just as she falls unconscious, the little girl replies, "my streamers got caught on your mirror!"
 	- ## Variants
+		- 福州伯: 幽靈的機車
 	- ## References
 		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
 		  type:: [[Web Page]]
