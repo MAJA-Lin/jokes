@@ -12,6 +12,7 @@ language:: [[English]]
 		- The bartender starts to blow the crook. As the crook gets excited, he drops the gun. The bartender sees the gun on the floor, picks it up, hands it back to the crook and yells, "Hold the gun, damn it! One of my friends might walk in!"
 	- ## Variants
 		- ### 老公
+		  id:: 64d8a813-205a-46fa-812c-e1168ee95da2
 			- 女店員正在準備打烊, 突然有個蒙面搶匪衝了進來, 拿著槍大喊"不許動! 把錢都拿出來放進袋子裡!"
 			- 女店員非常驚恐, "拜託你別開槍! 你要什麼我都會照做!"
 			- 搶匪大吼, "閉嘴! 快把收銀機裡的錢拿出來!"

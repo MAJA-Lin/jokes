@@ -2,7 +2,7 @@ properties::
 title::
 rank::
 categories:: [[NSFW]], [[long]] 
-tags:: #marriage, #blowjob
+tags:: #marriage, #blowjob, #husband, #wife 
 language:: [[English]]
 
 	- ## Content
@@ -18,6 +18,7 @@ language:: [[English]]
 		- throw my shoes into the closet, jump into bed, rub my hands on my wife's ass and say, 'How about a blowjob?'
 		- .....And she always sounds asleep."
 	- ## Variants
+		- [A bartender and a robber 變形版](((64d8a813-205a-46fa-812c-e1168ee95da2)))
 	- ## References
 		- u/futilelylustrate, "How bout a blowjob?," *Reddit r/Jokes*, [[Nov 30th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k3tn0h/how_bout_a_blowjob/](https://www.reddit.com/r/Jokes/comments/k3tn0h/how_bout_a_blowjob/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
