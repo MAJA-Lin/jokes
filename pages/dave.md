@@ -3,6 +3,7 @@ type:: tags
 
 - query-sort-by:: page
   query-sort-desc:: true
+  query-properties:: [:page :categories]
   #+BEGIN_QUERY
   {
       :title [:h2 "All Pages"]
