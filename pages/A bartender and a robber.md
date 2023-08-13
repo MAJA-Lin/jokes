@@ -2,7 +2,7 @@ properties::
 title::
 rank::
 categories:: [[NSFW]], [[long]] 
-tags:: #bartender, #robber, #blowjob 
+tags:: #bartender, #robber, #blowjob, #husband
 language:: [[English]]
 
 	- ## Content
@@ -11,12 +11,14 @@ language:: [[English]]
 		- The crook takes the money then puts the gun to the bartender's head and says, "Alright, now suck my dick!" "Anything!" cries the bartender, "Just don't shoot!"
 		- The bartender starts to blow the crook. As the crook gets excited, he drops the gun. The bartender sees the gun on the floor, picks it up, hands it back to the crook and yells, "Hold the gun, damn it! One of my friends might walk in!"
 	- ## Variants
-		- 女店員正在準備打烊, 突然有個蒙面搶匪衝了進來, 拿著槍大喊"不許動! 把錢都拿出來放進袋子裡!"
-		- 女店員非常驚恐, "拜託你別開槍! 你要什麼我都會照做!"
-		- 搶匪大吼, "閉嘴! 快把收銀機裡的錢拿出來!"
-		  "我家裡還有老公小孩, 你要我做什麼都可以, 拜託你別開槍!"
-		- 搶匪拿了錢後聽到這句話, 把槍放到女店員頭上, 然後要求幫他口交.
-		- 女店員看到槍指在她頭上, 非常的害怕, 只好勉為其難的答應.
+		- ### 老公
+			- 女店員正在準備打烊, 突然有個蒙面搶匪衝了進來, 拿著槍大喊"不許動! 把錢都拿出來放進袋子裡!"
+			- 女店員非常驚恐, "拜託你別開槍! 你要什麼我都會照做!"
+			- 搶匪大吼, "閉嘴! 快把收銀機裡的錢拿出來!"
+			- "我家裡還有老公小孩, 你要我做什麼都可以, 拜託你別開槍!"
+			- 搶匪拿了錢後聽到這句話, 把槍放到女店員頭上, 然後要求幫他口交.
+			- 女店員看到槍指在她頭上, 非常的害怕, 只好勉為其難的答應.
+			- 當女店員做到一半時, 搶匪突然把面具拿下來, 說: "我就說嘛, 你想要的話還是辦的到的!"
 	- ## References
 		- u/hayeshilton, "How bout a blowjob?," *Reddit r/Jokes*, [[Nov 30th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k3tn0h/comment/ge5ktsy/](https://www.reddit.com/r/Jokes/comments/k3tn0h/comment/ge5ktsy/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
