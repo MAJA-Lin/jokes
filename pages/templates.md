@@ -1,9 +1,8 @@
 # Joke Template
 	- ## Joke Page
-		- Joke Title
+		- template:: Joke/Page
 		  properties::
-		  alias::
-		  template:: Joke/Page
+		  title::
 		  rank::
 		  categories::
 		  tags::
