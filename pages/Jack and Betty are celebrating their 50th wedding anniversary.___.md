@@ -1,9 +1,10 @@
-- properties::
-  title::
-  rank::
-  categories::
-  tags::
-  language:: [[English]]
+properties::
+title::
+rank::
+categories:: [[NSFW]], [[long]] 
+tags::
+language:: [[English]]
+
 	- ## Content
 	- ## Variants
 	- ## References
