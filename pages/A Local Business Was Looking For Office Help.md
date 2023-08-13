@@ -1,7 +1,7 @@
 properties::
 rank::
 categories:: [[GA]], [[long]]
-tags:: #dog
+tags:: #dog, #job
 language:: [[English]]
 
 	- ## Content
@@ -25,5 +25,5 @@ language:: [[English]]
 		- The dog looked at him straight in the face and said, "Meow."
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- u/[deleted], "A local business was looking for office help. They put a sign in the window saying: "HELP WANTED. Must be able to type, must be good with a computer and must be bilingual. We are an Equal Opportunity Employer, " *Reddit r/Jokes*, [[Dec 29th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/klzneg/a_local_business_was_looking_for_office_help_they/](https://www.reddit.com/r/Jokes/comments/klzneg/a_local_business_was_looking_for_office_help_they/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
