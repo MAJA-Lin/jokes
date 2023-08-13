@@ -10,5 +10,4 @@ language:: [[English]]
 		- He replied, "It wath nothing, your magethy"
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
-		  type:: [[Web Page]]
+		- u/Hideous__Strength, "A king suspected that his queen was being unfaithful," *Reddit r/Jokes*, [[May 29th, 2021]]. [Format: Online]. Available: [[https://www.reddit.com/r/Jokes/comments/nnblq2/a_king_suspected_that_his_queen_was_being/](https://www.reddit.com/r/Jokes/comments/nnblq2/a_king_suspected_that_his_queen_was_being/). [Accessed: [[Aug 13th, 2023]] ].
