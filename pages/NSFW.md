@@ -1,6 +1,6 @@
 properties::
 alias:: Not Safe For Work
 
-- {{query (and [[NSFW]] ) }}
+- {{query (page-property :categories [[NSFW]]) (sort-by created-at desc)}}
   query-table:: true
-  query-properties:: [:page :tags :alias]
+  query-properties:: [:page :tags :alias :language]
