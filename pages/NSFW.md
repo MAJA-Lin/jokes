@@ -6,8 +6,9 @@ alias:: Not Safe For Work
   query-properties:: [:page :tags :alias :language]
   collapsed:: true
 - #+BEGIN_QUERY
-  {:title "All tasks"
-  :query [:find (pull ?b [*])
+  {:title [:h2 "All Pages"]
+  :query [:find (pull ?p [*])
+      :in $ ?current-page
       :where
-      [?b :block/marker _]]}
+      [?p :block/marker _]]}
   #+END_QUERY
