@@ -3,7 +3,7 @@ title:: A Nun And A Priest Are Crossing The Sahara Desert On A Camel.
 alias::
 rank::
 categories:: [[NSFW]], [[Long]] 
-tags:: #nun, #priest
+tags:: #nun, #priest, #camel 
 language:: [[English]]
 
 	- ## Content
