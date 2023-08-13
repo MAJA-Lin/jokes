@@ -11,6 +11,7 @@ language:: [[English]]
 		- The crook takes the money then puts the gun to the bartender's head and says, "Alright, now suck my dick!" "Anything!" cries the bartender, "Just don't shoot!"
 		- The bartender starts to blow the crook. As the crook gets excited, he drops the gun. The bartender sees the gun on the floor, picks it up, hands it back to the crook and yells, "Hold the gun, damn it! One of my friends might walk in!"
 	- ## Variants
+		-
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- u/hayeshilton, "How bout a blowjob?," *Reddit r/Jokes*, [[Nov 30th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k3tn0h/comment/ge5ktsy/](https://www.reddit.com/r/Jokes/comments/k3tn0h/comment/ge5ktsy/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
