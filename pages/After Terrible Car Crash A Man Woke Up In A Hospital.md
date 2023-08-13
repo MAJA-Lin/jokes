@@ -1,7 +1,7 @@
 properties::
 rank::
 categories:: [[NSFW]], [[long]] 
-tags:: #wife, #cock 
+tags:: #wife, #cock, [[car crash]], #doctor
 language:: [[English]]
 
 	- ## Content
@@ -19,5 +19,5 @@ language:: [[English]]
 		- The man replies, “Yes, we've decided to go with a new kitchen.”
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- u/TooShiftyForYou, "Judge: How could you kill 24 people? What the hell was wrong with you, " *Reddit r/Jokes*, [[Dec 6th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k7h57e/comment/gerce5b](https://www.reddit.com/r/Jokes/comments/k7h57e/comment/gerce5b). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
