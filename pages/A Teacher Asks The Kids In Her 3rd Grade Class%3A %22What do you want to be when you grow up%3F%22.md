@@ -2,7 +2,7 @@ properties::
 title::
 rank::
 categories:: [[NSFW]], [[long]] 
-tags:: #teacher
+tags:: #teacher, #kids
 language:: [[English]]
 
 	- ## Content
@@ -12,5 +12,5 @@ language:: [[English]]
 		- "I wanna be Johnny's whore"
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Nov 30th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k3vww4/a_teacher_asks_the_kids_in_her_3rd_grade_class/](https://www.reddit.com/r/Jokes/comments/k3vww4/a_teacher_asks_the_kids_in_her_3rd_grade_class/). [Accessed: [[Aug 13th, 2023]] ].
+		- u/cornguy_jr, "A teacher asks the kids in her 3rd grade class: "What do you want to be when you grow up?", " *Reddit r/Jokes*, [[Nov 30th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k3vww4/a_teacher_asks_the_kids_in_her_3rd_grade_class/](https://www.reddit.com/r/Jokes/comments/k3vww4/a_teacher_asks_the_kids_in_her_3rd_grade_class/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
