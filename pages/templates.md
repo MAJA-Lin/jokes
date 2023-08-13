@@ -9,7 +9,10 @@
 		  tags::
 		  language:: [[English]]
 			- ## Content
-			- # References
+			- ## References
+				- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+				  template:: Reference/Web Page 
+				  type:: [[Web Page]]
 - # Reference Template
 	- Please check [IEEE Reference-Guide (noted and saved at Notion)](https://www.notion.so/IEEE-c20f77097df448c49d1f6e0688a49880#9ccdd756473d4718b2b71c5eb694e11c) for further information.
 	- ## Web Page
