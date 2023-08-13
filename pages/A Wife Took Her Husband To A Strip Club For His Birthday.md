@@ -2,16 +2,16 @@ properties::
 alias::
 rank::
 categories:: [[GA]]
-tags::
+tags:: #husband, #wife 
 language:: [[English]]
 
 	- ## Content
 		- A wife decides to take her husband, Dave, to a strip club for his birthday.
 		- They arrive at the club and the doorman says, "Hey, Dave! How ya doin'?"
 		- His wife is puzzled and asks if hes been to this club before.
-		- "Oh no," says Dave. "Hes on my bowling team."
-		- When they are seated, a waitress asks Dave if hed like his usual and brings over a Budweiser.
-		- His wife is becoming increasingly uncomfortable and says,"How did she know that you drink Budweiser?"
+		- "Oh no," says Dave. "He's on my bowling team."
+		- When they are seated, a waitress asks Dave if he'd like his usual and brings over a Budweiser.
+		- His wife is becoming increasingly uncomfortable and says, "How did she know that you drink Budweiser?"
 		- "Shes in the Ladies Bowling League, honey. We share lanes with them."
 		- A stripper then comes over to their table, throws her arms around Dave, and says "Hi Davey. Want your usual table dance, big boy?"
 		- Daves wife, now furious, grabs her purse and storms out of the club.
