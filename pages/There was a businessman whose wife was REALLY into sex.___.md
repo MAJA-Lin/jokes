@@ -2,7 +2,7 @@ properties::
 title::
 rank::
 categories:: [[NSFW]], [[long]] 
-tags:: #magic, #marriage, #wife, #police 
+tags:: #magic, #marriage, #wife, #police, #pun
 language:: [[English]]
 
 	- ## Content
