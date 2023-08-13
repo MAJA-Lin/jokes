@@ -18,5 +18,5 @@ language:: [[English]]
 		- "Well," the farmer grumbled, restarting his tractor. "He kept a-saying he wasn't... but you know what a liar he is!"
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- u/TitaniumDragon, "Air Force One crashed on a farm in Nebraska, " *Reddit r/Jokes*, [[Dec 22nd, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/khs304/air_force_one_crashed_on_a_farm_in_nebraska/](https://www.reddit.com/r/Jokes/comments/khs304/air_force_one_crashed_on_a_farm_in_nebraska/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
