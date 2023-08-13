@@ -1,10 +1,7 @@
 properties::
 alias:: Not Safe For Work
 
-- {{query (page-property :categories [[NSFW]]) (sort-by created-at desc)}}
-  query-table:: true
-  query-properties:: [:page :tags :alias :language]
-  collapsed:: true
+-
 - #+BEGIN_QUERY
   {
       :title [:h2 "All Pages"]

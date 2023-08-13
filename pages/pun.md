@@ -3,7 +3,7 @@ properties::
 - ## 雙關語
 	- ### [[Homophonic]] 諧音
 	- ### Homographic 同形異義
-- query-properties:: [:page :tags]
+- query-properties:: [:page :alias :tags :categories :language]
   #+BEGIN_QUERY
   {
       :title [:h2 "All Pages"]
