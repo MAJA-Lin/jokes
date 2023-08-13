@@ -1,4 +1,4 @@
 properties::
-alias:: ga
+alias:: GA
 
 -

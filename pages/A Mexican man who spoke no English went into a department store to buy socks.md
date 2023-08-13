@@ -1,9 +1,10 @@
-- properties::
-  title::
-  rank::
-  categories::
-  tags::
-  language:: [[English]]
+properties::
+title:: A Mexican man who spoke no English went into a department store to buy socks
+rank::
+categories:: [[GA]] 
+tags:: #Mexican
+language:: [[English]]
+
 	- ## Content
 		- A Mexican man who spoke no English went into a department store to buy socks.
 		- He found his way to the menswear department where a young lady offered to help him.
