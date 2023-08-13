@@ -1,4 +1,15 @@
 properties::
 alias:: 醫生
 
--
+- query-properties:: [:page :alias :tags :categories]
+  #+BEGIN_QUERY
+  {
+      :title [:h2 "All Pages"]
+      :query [:find (pull ?p [*])
+      :in $ ?tag
+      :where
+          (page-property ?p :tags ?tag)
+      ]
+      :inputs [:current-page]
+  }
+  #+END_QUERY
