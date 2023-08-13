@@ -1,7 +1,7 @@
 properties::
 title::
 rank::
-categories::
+categories:: [[NSFW]], [[long]] 
 tags:: #doctor, [[old man]], #examination
 language:: [[English]]
 
@@ -18,5 +18,5 @@ language:: [[English]]
 		- The old man replied, "Yep, none of us could get the jar open."
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [Dec 18th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/kf6l47/an_85yearold_man_was_requested_by_his_doctor_for/](https://www.reddit.com/r/Jokes/comments/kf6l47/an_85yearold_man_was_requested_by_his_doctor_for/). [Accessed: [[Aug 13th, 2023]] ].
+		- u/jhutto2, "An 85-year-old man was requested by his doctor for a sperm count as part of his physical exam.," *Reddit r/Jokes*, [[Dec 18th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/kf6l47/an_85yearold_man_was_requested_by_his_doctor_for/](https://www.reddit.com/r/Jokes/comments/kf6l47/an_85yearold_man_was_requested_by_his_doctor_for/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
