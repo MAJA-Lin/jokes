@@ -1,5 +1,6 @@
 properties::
-title:: Magic Dildo
+title:: A Businessman Whose Wife Was Really Into Sex
+alias:: Magic Dildo
 rank::
 categories:: [[NSFW]], [[long]]
 tags:: #magic, #marriage, #wife, #police, #pun, #dildo
@@ -7,6 +8,7 @@ language:: [[English]]
 
 	- ## Content
 		- ### English
+			- There was a businessman whose wife was REALLY into sex.
 			- He was a hardworking guy but still managed to satisfy his wife's needs.
 			- One time he had to leave for another country for a business meet.
 			- He would've been gone for a week. He knew his wife's sex drive and didn't want to take risks so he thought he should gift her something so she can satisfy herself and doesn't think about searching for a new partner so he went to an adult toy shop.
