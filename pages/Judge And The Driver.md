@@ -11,5 +11,4 @@ language:: [[English]]
 		- Driver: Exactly! After hitting the first man, the other man ran inside the restaurant so l followed him.
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
-		  type:: [[Web Page]]
+		- u/bonp27, "Judge: How could you kill 24 people? What the hell was wrong with you, " *Reddit r/Jokes*, [[Dec 6th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k7h57e/judge_how_could_you_kill_24_people_what_the_hell/](https://www.reddit.com/r/Jokes/comments/k7h57e/judge_how_could_you_kill_24_people_what_the_hell/). [Accessed: [[Aug 13th, 2023]] ].
