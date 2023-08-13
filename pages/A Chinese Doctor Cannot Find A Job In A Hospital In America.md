@@ -1,6 +1,4 @@
 properties::
-title::
-alias::
 rank::
 categories:: [[GA]], [[long]]
 tags:: #doctor, #lawyer, #kerosene
@@ -22,7 +20,7 @@ language:: [[English]]
 		- The fuming lawyer pays him, then comes back a week later determined to get back $100.
 		- Lawyer: "My eyesight has become very weak I cannot see at all."
 		- Chinese: "Well, I don't have any medicine for that, so take this $100."
-		- Lawyer (staring at the note): "But this is $20, not $100!”
+		- Lawyer (staring at the note): "But this is $20, not $100!"
 		- Chinese: "Congrats, your eyesight is restored. Give me $20"
 	- ## Variants
 	- ## References
