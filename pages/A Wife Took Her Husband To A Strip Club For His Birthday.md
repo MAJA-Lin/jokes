@@ -1,8 +1,7 @@
 properties::
-alias::
 rank::
 categories:: [[GA]]
-tags:: #husband, #wife 
+tags:: #husband, #wife, #dave
 language:: [[English]]
 
 	- ## Content
@@ -20,6 +19,7 @@ language:: [[English]]
 		- She is screaming at him at the top of her lungs, calling him every name in the book.
 		- The cabby turns his head and says, "Looks like you picked up a real bitch tonight, Dave."
 	- ## Variants
+		- [[Dave knows everybody and everybody knows Dave]]
 	- ## References
 		- u/SourTomato123, "A wife decides to take her husband, Dave, to a strip club for his birthday, " *Reddit r/Jokes*, [[Nov 26th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k1gybx/a_wife_decides_to_take_her_husband_dave_to_a/](https://www.reddit.com/r/Jokes/comments/k1gybx/a_wife_decides_to_take_her_husband_dave_to_a/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
