@@ -2,7 +2,7 @@ properties::
 title:: A Nun And A Priest Are Crossing The Sahara Desert On A Camel.
 alias::
 rank::
-categories:: [[NSFW]] 
+categories:: [[NSFW]], [[Long]] 
 tags:: #nun, #priest
 language:: [[English]]
 
@@ -26,5 +26,5 @@ language:: [[English]]
 		- "Yes it is, sister."
 		- "Then why don't you stick it up that camel's ass and let's get the fuck out of here."
 	- ## References
-		- A. Author, "Document title," Reddit, [[Date of internet publication]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k0yhco/nsfw_a_nun_and_a_priest_are_crossing_the_sahara/](https://www.reddit.com/r/Jokes/comments/k0yhco/nsfw_a_nun_and_a_priest_are_crossing_the_sahara/). [Accessed: [[Date of access]]].
+		- u/Phade2Black, "[NSFW] A nun and a priest are crossing the Sahara desert on a camel.," Reddit, [[Nov 26th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k0yhco/nsfw_a_nun_and_a_priest_are_crossing_the_sahara/](https://www.reddit.com/r/Jokes/comments/k0yhco/nsfw_a_nun_and_a_priest_are_crossing_the_sahara/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
