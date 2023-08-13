@@ -2,18 +2,18 @@ properties::
 alias:: GA
 
 	- query-sort-by:: page
+	  query-table:: false
 	  query-sort-desc:: true
-	  query-properties:: [:page :created-at]
+	  query-properties:: [:alias :ga]
 	  #+BEGIN_QUERY
-	  {:title "Pages in last 2 days"
-	  :query [:find (pull ?p [*])
-	  :in $ ?today
-	  :where
-	  [?p :block/created-at ?d]
-	  [(- ?today 172800000) ?start]
-	  [(>= ?d ?start)]
-	  [(<= ?d ?today)]
-	  ]
-	  :inputs [:right-now-ms]}
+	  		  {
+	  		   :query [:find (pull ?b [*])
+	  		        :where
+	  		        [?b :page/properties ?pprops]
+	  		        [(get ?pprops:ga"nil") ?bs]
+	  		        [(not= ?bs "nil")]]
+	  		  :result-transform (fn [result]
+	  		      (sort-by (fn [h]
+	  		        (get-in h [:block/properties :ga])) result))
+	  		  }
 	  #+END_QUERY
--
