@@ -1,7 +1,7 @@
 properties::
 rank::
-categories::
-tags::
+categories:: [[GA]], [[long]] 
+tags:: #Christmas, #kids 
 language:: [[English]]
 
 	- ## Content
