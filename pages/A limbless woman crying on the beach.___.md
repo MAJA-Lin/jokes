@@ -6,6 +6,7 @@ tags:: #disability, #beach, #pun
 language:: [[English]]
 
 	- ## Content
+		- A limbless woman crying on the beach.
 		- A limbless woman is sitting on the beach crying as a man approaches her.
 		- "What's wrong?" He asks.
 		- "I've never been hugged before..." she responds.

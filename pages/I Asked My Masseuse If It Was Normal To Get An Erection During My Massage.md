@@ -7,7 +7,7 @@ tags:: #erection
 language:: [[English]]
 
 	- ## Content
-		- I Asked My Masseuse If It Was Normal To Get An Erection During My Massage
+		- I asked my masseuse if it was normal to get an erection during my massage.
 		- He said it was perfectly normal.
 		- I said, "Ok, but could you at least stop bumping it into me?"
 	- ## Variants
