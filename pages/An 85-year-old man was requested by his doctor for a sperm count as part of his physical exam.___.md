@@ -1,0 +1,23 @@
+properties::
+title:: An 85-year-old man and the sperm count exam
+rank::
+categories:: [[NSFW]], [[long]]
+tags:: #doctor, [[old man]], #examination
+language:: [[English]]
+
+	- ## Content
+		- An 85-year-old man was requested by his doctor for a sperm count as part of his physical exam.
+		- The doctor gave the man a jar and said, "Take this jar home and bring back a semen sample tomorrow." The next day the 85-year-old man reappeared at the doctor's office and gave him the jar, which was as clean and empty as on the previous day.
+		- The doctor asked, what happened and the man explained.
+		  "Well, doc, it's like this --- first I tried with my right hand, but nothing.
+		- Then I tried with my left hand, but still nothing.
+		- Then I asked my wife for help.
+		- She tried with her right hand, then with her left, still nothing.
+		- She tried with her mouth, first with the teeth in, then with her teeth out, still nothing.
+		- We even called up Arleen, the lady next door and she tried too, first with both hands, then an armpit, and she even tried squeezin' it between her knees, but still nothing."
+		- The doctor was shocked! "You asked your neighbor?"
+		- The old man replied, "Yep, none of us could get the jar open."
+	- ## Variants
+	- ## References
+		- u/jhutto2, "An 85-year-old man was requested by his doctor for a sperm count as part of his physical exam.," *Reddit r/Jokes*, [[Dec 18th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/kf6l47/an_85yearold_man_was_requested_by_his_doctor_for/](https://www.reddit.com/r/Jokes/comments/kf6l47/an_85yearold_man_was_requested_by_his_doctor_for/). [Accessed: [[Aug 13th, 2023]] ].
+		  type:: [[Web Page]]
