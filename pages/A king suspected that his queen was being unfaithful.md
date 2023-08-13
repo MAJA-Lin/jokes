@@ -1,11 +1,12 @@
 properties::
-title::
+title:: A king suspected that his queen was being unfaithful
 rank::
-categories:: [[NSFW]] 
+categories:: [[NSFW]]
 tags:: #cheating, #king, #三國
 language:: [[English]]
 
 	- ## Content
+		- A king suspected that his queen was being unfaithful.
 		- So he secretly taped a tiny razor blade to her vagina. Three days later, he ordered his knights to drop their pants. They all had bandaged penises, except for one. The king said to him, "I always knew you were my most loyal knight!"
 		- He replied, "It wath nothing, your magethy"
 	- ## Variants
