@@ -2,7 +2,10 @@ properties::
 alias:: Not Safe For Work
 
 -
-- #+BEGIN_QUERY
+- query-properties:: [:page :alias :tags]
+  query-sort-by:: page
+  query-sort-desc:: true
+  #+BEGIN_QUERY
   {
       :title [:h2 "All Pages"]
       :query [:find (pull ?p [*])
