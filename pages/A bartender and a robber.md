@@ -1,9 +1,10 @@
-- properties::
-  title::
-  rank::
-  categories::
-  tags::
-  language:: [[English]]
+properties::
+title::
+rank::
+categories:: [[NSFW]], [[long]] 
+tags:: #bartender, #robber, #blowjob 
+language:: [[English]]
+
 	- ## Content
 		- A bartender was getting ready to close for the night when a robber with a ski mask burst in and pulls a gun. He yells to the bartender, "This is a stick-up! Put all your money in this bag!"
 		- The frightened bartender pleads, "Don't shoot, please! I'll do as you say!" The robber yells, "Shut up and empty the cash register!" The bartender says, "Okay, okay! Just don't shoot, I have a wife and kids! I'll do whatever you say!"
