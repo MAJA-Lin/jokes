@@ -46,7 +46,7 @@ language:: [[English]]
 			- The policeman then says,
 			- "Yeah right, Voodoo Dildo my ass."
 		- ### Chinese
-			- 卡稱啦
+			- 卡稱啦!
 	- ## Variants
 	- ## References
 		- u/first_name_harshit, "There was a businessman whose wife was REALLY into sex.," *Reddit r/Jokes*, [[Dec 21st, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/kgx1cq/there_was_a_businessman_whose_wife_was_really/](https://www.reddit.com/r/Jokes/comments/kgx1cq/there_was_a_businessman_whose_wife_was_really/). [Accessed: [[Aug 13th, 2023]] ].
