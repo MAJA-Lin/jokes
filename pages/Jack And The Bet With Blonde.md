@@ -1,7 +1,7 @@
 properties::
 rank::
-categories:: [[GA]]
-tags:: #bet
+categories:: [[GA]], [[long]]
+tags:: #bet, #blonde
 language:: [[English]]
 
 	- ## Content
@@ -17,5 +17,5 @@ language:: [[English]]
 		- Jack took the money.
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- u/EmBeeCSGO, "Jack, a handsome man, walked into a sports bar around 9:58pm, " *Reddit r/Jokes*, [[Dec 21st, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/khe8e3/jack_a_handsome_man_walked_into_a_sports_bar/](https://www.reddit.com/r/Jokes/comments/khe8e3/jack_a_handsome_man_walked_into_a_sports_bar/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
