@@ -9,7 +9,10 @@ alias:: GA
 	  {
 	    :title [:b "General Audiences"]
 	    :query [
-	      :find (pull ?p [*])
+	        :find (pull ?p [*])
+	        :where
+	            (property ?p :categories "GA")
+	          []
 	    ]
 	  }
 	  #+END_QUERY
