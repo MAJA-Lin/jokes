@@ -24,5 +24,5 @@ language:: [[English]]
 		- Chinese: "Congrats, your eyesight is restored. Give me $20"
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- u/Ev0On, "A Chinese doctor cant find a job in a hospital in America, so he opens a clinic and puts a sign outside that reads "GET TREATMENT FOR $20 - IF NOT CURED GET BACK $100, " *Reddit r/Jokes*, [[Dec 4th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k6gl5l/a_chinese_doctor_cant_find_a_job_in_a_hospital_in/](https://www.reddit.com/r/Jokes/comments/k6gl5l/a_chinese_doctor_cant_find_a_job_in_a_hospital_in/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
