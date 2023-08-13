@@ -3,6 +3,7 @@
 		- template:: Joke/Page
 		  properties::
 		  title::
+		  alias::
 		  rank::
 		  categories::
 		  tags::
