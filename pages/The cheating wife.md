@@ -17,7 +17,7 @@ language:: [[English]]
 		- The man looks down at the girl and says to the cabbie, "THIS AIN'T MY WIFE".
 		- The cabbie replied, "I KNOW, IT'S MINE; I'M GOING BACK IN FOR YOURS!!".
 	- ## Variants
-		- 接續結尾 [REF](((64d89c18-20d4-4b3f-b952-a524e8e5e545)))
+		- ### Extended [REF](((64d89c18-20d4-4b3f-b952-a524e8e5e545)))
 			- The man asks "What took you so long?"
 			- The cabbie replies "Well she was priced much higher than my wife and I had to find out why"
 	- ## References
