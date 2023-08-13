@@ -1,8 +1,8 @@
 properties::
-title::
+title:: Magic Dildo
 rank::
-categories:: [[NSFW]], [[long]] 
-tags:: #magic, #marriage, #wife, #police, #pun
+categories:: [[NSFW]], [[long]]
+tags:: #magic, #marriage, #wife, #police, #pun, #dildo
 language:: [[English]]
 
 	- ## Content
