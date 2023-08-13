@@ -1,7 +1,7 @@
 properties::
-title::
+title:: A limbless woman crying on the beach
 rank::
-categories:: [[NSFW]] 
+categories:: [[NSFW]]
 tags:: #disability, #beach, #pun
 language:: [[English]]
 

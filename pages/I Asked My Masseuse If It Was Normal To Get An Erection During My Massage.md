@@ -1,12 +1,13 @@
 properties::
-title::
+title:: I Asked My Masseuse
 alias::
 rank::
 categories:: [[NSFW]], [[short]]
-tags:: #erection 
+tags:: #erection
 language:: [[English]]
 
 	- ## Content
+		- I Asked My Masseuse If It Was Normal To Get An Erection During My Massage
 		- He said it was perfectly normal.
 		- I said, "Ok, but could you at least stop bumping it into me?"
 	- ## Variants
