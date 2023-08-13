@@ -1,6 +1,5 @@
 properties::
 alias:: Not Safe For Work
 
-- {{query (and (categories NSFW (sort-by created-at asc))}}
+- {{query (and [[done]] [[維護案]])}}
   query-table:: true
--
