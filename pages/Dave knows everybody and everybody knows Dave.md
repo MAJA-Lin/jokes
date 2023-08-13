@@ -5,6 +5,7 @@ tags:: #dave, #pope
 language:: [[English]]
 
 	- ## Content
+		- Dave knows everybody and everybody knows Dave.
 		- Dave was bragging to his boss one day, "You know, I know everyone there is to know. Just name someone, anyone, and I know them."
 		- Tired of his boasting, his boss called his bluff, "OK, Dave, how about Tom Cruise?"
 		- "No dramas boss, Tom and I are old friends, and I can prove it." So Dave and his boss fly out to Hollywood and knock on Tom Cruise's door, and Tom Cruise shouts,
@@ -25,4 +26,4 @@ language:: [[English]]
 	- ## Variants
 	- ## References
 		- u/Waitsfornoone, "A wife decides to take her husband, Dave, to a strip club for his birthday, " *Reddit r/Jokes*, [[Nov 26th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k1gybx/comment/gdo7jpc/](https://www.reddit.com/r/Jokes/comments/k1gybx/comment/gdo7jpc/). [Accessed: [[Aug 13th, 2023]] ].
-		- type:: [[Web Page]]
+		  type:: [[Web Page]]
