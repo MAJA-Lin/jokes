@@ -10,5 +10,6 @@ alias:: Not Safe For Work
   :query [:find (pull ?p [*])
       :in $ ?current-page
       :where
-      [?p :block/marker _]]}
+      [?p :page/categories ?current-page]]
+  :inputs [:current-page]}
   #+END_QUERY
