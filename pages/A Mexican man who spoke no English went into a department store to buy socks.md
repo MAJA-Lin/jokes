@@ -1,7 +1,7 @@
 properties::
 title:: A Mexican man who spoke no English went into a department store to buy socks
 rank::
-categories:: [[GA]] 
+categories:: [[GA]], [[long]]
 tags:: #Mexican, #pun, #homophonic 
 language:: [[English]]
 
@@ -22,6 +22,8 @@ language:: [[English]]
 		- As they passed the underwear counter, the man spotted a display of socks and happily grabbed a pair.
 		- Holding them up he proclaimed, **"Eso sí que es!"**
 		- "Why didn't you just spell it in the first place?!" yelled the salesgirl.
+		- Explaination: **Eso sí que es** sounds very similar to spelling **SOCKS**.
+		  background-color:: green
 	- ## Variants
 	- ## References
 		- u/pradeep23, "A Mexican man who spoke no English went into a department store to buy socks," *Reddit r/Jokes*, [[Nov 21st, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/jxw4mw/a_mexican_man_who_spoke_no_english_went_into_a/](https://www.reddit.com/r/Jokes/comments/jxw4mw/a_mexican_man_who_spoke_no_english_went_into_a/). [Accessed: [[Aug 13th, 2023]] ].
