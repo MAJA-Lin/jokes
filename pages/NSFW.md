@@ -6,11 +6,13 @@ alias:: Not Safe For Work
   query-properties:: [:page :tags :alias :language]
   collapsed:: true
 - #+BEGIN_QUERY
-  {:title [:h2 "All Pages"]
-  :query [:find ?title
-      :in $ ?current-page
-      :where
-      [?p :page/title ?title]
-      [?p :page/categories ?current-page]]
-  :inputs [:current-page]}
+  {
+      :title [:h2 "All Pages"]
+      :query [:find (pull ?p [*])
+          :in $ ?current-page
+          :where
+          [?p :page/categories ?current-page]
+      ]
+      :inputs [:current-page]
+  }
   #+END_QUERY
