@@ -19,5 +19,5 @@ language:: [[English]]
 		- .....And she always sounds asleep."
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- u/futilelylustrate, "How bout a blowjob?," *Reddit r/Jokes*, [[Nov 30th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k3tn0h/how_bout_a_blowjob/](https://www.reddit.com/r/Jokes/comments/k3tn0h/how_bout_a_blowjob/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
