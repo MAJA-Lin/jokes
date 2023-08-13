@@ -1,6 +1,7 @@
 properties::
 alias:: GA
 
+	- {{query (page-property :categories [[GA]])}}
 	- query-sort-by:: page
 	  query-table:: false
 	  query-sort-desc:: true
