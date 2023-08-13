@@ -18,4 +18,5 @@ language:: [[English]], [[Chinese]]
 			- I asked "why?"
 			- He said "because I'm trying to give you a physical"
 	- ## Variants
+		- [[A Doctor Is Giving A Physical]]
 	- ## References

@@ -3,7 +3,7 @@ title::
 alias::
 rank::
 categories:: [[NSFW]], [[short]]
-tags::
+tags:: #erection 
 language:: [[English]]
 
 	- ## Content
