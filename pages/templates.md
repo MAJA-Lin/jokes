@@ -31,3 +31,17 @@
 		  title::
 		  
 		  content
+- # Query Template
+	- ## Query Tag With Current Page (Only Works For Lowercase)
+		- template:: Query/Pages With Tag (Current Page)
+		  #+BEGIN_QUERY
+		  {
+		      :title [:h2 "All Pages"]
+		      :query [:find (pull ?p [*])
+		      :in $ ?cat
+		      :where
+		          (page-property ?p :categories ?cat)
+		      ]
+		      :inputs ["NSFW"]
+		  }
+		  #+END_QUERY
