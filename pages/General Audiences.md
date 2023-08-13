@@ -1,9 +1,11 @@
 properties::
 alias:: GA
 
-- query-properties:: [:page :tags :language]
+- 普遍級
+  query-properties:: [:page :tags :language]
 - query-sort-by:: page
   query-sort-desc:: false
+  query-properties:: [:page :tags]
   #+BEGIN_QUERY
   {
       :title [:h2 "All Pages"]
