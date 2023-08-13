@@ -2,7 +2,7 @@ properties::
 title::
 rank::
 categories:: [[NSFW]] 
-tags:: #doctor 
+tags:: #doctor, #cock 
 language:: [[English]]
 
 	- ## Note
