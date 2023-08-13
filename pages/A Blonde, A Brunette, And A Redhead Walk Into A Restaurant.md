@@ -1,7 +1,7 @@
 properties::
 rank::
 categories:: [[GA]], [[long]]
-tags:: #blonde 
+tags:: #blonde, #magic
 language:: [[English]]
 
 	- ## Note
@@ -27,5 +27,5 @@ language:: [[English]]
 		- Poof. she is never seen again.
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- u/ZealousidealRise7, "A blonde, a brunette, and a redhead walk into a restaurant, " *Reddit r/Jokes*, [[Dec 31st, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/kngxkr/a_blonde_a_brunette_and_a_redhead_walk_into_a/](https://www.reddit.com/r/Jokes/comments/kngxkr/a_blonde_a_brunette_and_a_redhead_walk_into_a/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
