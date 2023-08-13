@@ -2,7 +2,7 @@ properties::
 title::
 rank::
 categories:: [[NSFW]], [[long]] 
-tags::
+tags:: #heaven, #afterlife
 language:: [[English]]
 
 	- ## Content
