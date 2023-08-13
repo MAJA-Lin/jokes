@@ -34,14 +34,15 @@
 - # Query Template
 	- ## Query Tag With Current Page (Only Works For Lowercase)
 		- template:: Query/Pages With Tag (Current Page)
-			- #+BEGIN_QUERY
-			  {
-			      :title [:h2 "All Pages"]
-			      :query [:find (pull ?p [*])
-			      :in $ ?tag
-			      :where
-			          (page-property ?p :tags ?tag)
-			      ]
-			      :inputs [:current-page]
-			  }
-			  #+END_QUERY
+		  query-properties:: [:page :tags]
+		  #+BEGIN_QUERY
+		  {
+		      :title [:h2 "All Pages"]
+		      :query [:find (pull ?p [*])
+		      :in $ ?tag
+		      :where
+		          (page-property ?p :tags ?tag)
+		      ]
+		      :inputs [:current-page]
+		  }
+		  #+END_QUERY
