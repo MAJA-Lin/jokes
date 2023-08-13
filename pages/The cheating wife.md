@@ -17,6 +17,12 @@ language:: [[English]]
 		- The man looks down at the girl and says to the cabbie, "THIS AIN'T MY WIFE".
 		- The cabbie replied, "I KNOW, IT'S MINE; I'M GOING BACK IN FOR YOURS!!".
 	- ## Variants
+		- 接續結尾
+			- The man asks "What took you so long?"
+			- The cabbie replies "Well she was priced much higher than my wife and I had to find out why"
 	- ## References
 		- u/sidtheslothy23, "The cheating wife," *Reddit r/Jokes*, [[Dec 7th, 2020]] . [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k8j7zl/the_cheating_wife/](https://www.reddit.com/r/Jokes/comments/k8j7zl/the_cheating_wife/). [Accessed: [[Aug 13th, 2023]] ].
+		  type:: [[Web Page]]
+		- u/
+		  level hayeshilton, "The cheating wife," *Reddit r/Jokes*, [[Dec 7th, 2020]] . [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/k8j7zl/the_cheating_wife/](https://www.reddit.com/r/Jokes/comments/k8j7zl/the_cheating_wife/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
