@@ -16,5 +16,4 @@ language:: [[English]]
 	- ## Variants
 		- 福州伯: 幽靈的機車
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
-		  type:: [[Web Page]]
+		- u/AtomGray, "One Christmas morning, a cop on horseback is sitting at a traffic light and next to him is a little girl on her brand-new bike, " *Reddit r/Jokes*, [[Dec 25th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/kjquhl/comment/ggyn6xb/](https://www.reddit.com/r/Jokes/comments/kjquhl/comment/ggyn6xb/). [Accessed: [[Aug 13th, 2023]] ].
