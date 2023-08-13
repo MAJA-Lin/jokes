@@ -2,7 +2,7 @@ properties::
 title::
 rank::
 categories:: [[NSFW]] 
-tags:: #disability, #beach 
+tags:: #disability, #beach, #pun
 language:: [[English]]
 
 	- ## Content
