@@ -1,7 +1,7 @@
 properties::
 rank::
 categories:: [[GA]], [[long]] 
-tags:: #dave, #pope 
+tags:: #dave, #pope, #president
 language:: [[English]]
 
 	- ## Content
