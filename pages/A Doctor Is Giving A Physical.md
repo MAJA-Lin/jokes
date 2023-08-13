@@ -2,7 +2,7 @@ properties::
 title::
 rank::
 categories:: [[NSFW]] 
-tags:: #doctor, #erection
+tags:: #doctor, #erection, #physical
 language:: [[English]]
 
 	- ## Content

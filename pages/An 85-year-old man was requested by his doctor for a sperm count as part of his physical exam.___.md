@@ -1,9 +1,10 @@
-- properties::
-  title::
-  rank::
-  categories::
-  tags::
-  language:: [[English]]
+properties::
+title::
+rank::
+categories::
+tags:: #doctor, [[old man]], #examination
+language:: [[English]]
+
 	- ## Content
 		- The doctor gave the man a jar and said, "Take this jar home and bring back a semen sample tomorrow." The next day the 85-year-old man reappeared at the doctor's office and gave him the jar, which was as clean and empty as on the previous day.
 		- The doctor asked, what happened and the man explained.
@@ -17,5 +18,5 @@
 		- The old man replied, "Yep, none of us could get the jar open."
 	- ## Variants
 	- ## References
-		- A. Author, "Document title," *Webpage name*, Source/production information, [[Date of internet publication]]. [Format: Online]. Available: [link_to_page](link_to_page). [Accessed: [[Date of access]]].
+		- A. Author, "Document title," *Webpage name*, Source/production information, [Dec 18th, 2020]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/kf6l47/an_85yearold_man_was_requested_by_his_doctor_for/](https://www.reddit.com/r/Jokes/comments/kf6l47/an_85yearold_man_was_requested_by_his_doctor_for/). [Accessed: [[Aug 13th, 2023]] ].
 		  type:: [[Web Page]]
