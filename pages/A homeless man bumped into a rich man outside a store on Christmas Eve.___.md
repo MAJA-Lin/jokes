@@ -5,6 +5,8 @@ categories:: [[NSFW]]
 tags:: #Christmas
 language:: [[English]]
 
+	- ## Note
+		- 英文哽, 不好翻譯.
 	- ## Content
 		- The homeless man asks the rich man, "What did you get for your wife this year?"
 		- The rich man replies, "Diamond earrings and a new Mercedes."
