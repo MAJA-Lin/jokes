@@ -12,7 +12,7 @@ alias:: GA
 	        :find (pull ?p [*])
 	        :where
 	            (property ?p :categories "GA")
-	          []
+	          [(get ?title :title)]
 	    ]
 	  }
 	  #+END_QUERY
