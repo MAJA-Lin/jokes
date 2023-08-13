@@ -6,7 +6,7 @@ tags:: #doctor
 language:: [[English]]
 
 	- ## Note
-		- 老笑話的變形版.
+		- 老笑話的變形版, 但比原版好笑很多.
 	- ## Content
 		- A man had a 25" long penis and it created difficulties in his life as it was not easy to move around with it and women were afraid of him too. He also had a very high pitched voice.
 		- He went to see a doctor. "What can I do about my enormous penis?" he asked in a high pitched voice.
@@ -16,7 +16,7 @@ language:: [[English]]
 		- But after a few weeks he realized having a 25-inch penis was pretty cool. Finally he went back to the doctor. "I've thought about it and I would like to undo the operation."
 		- "That's impossible," the doctor said in a high pitched voice.
 	- ## Variants
-		- ### 原版/魔法青蛙
+		- ### 原版/魔法青蛙 [REF](((64d8bc86-6cd3-4cb0-b8da-5d1409346168)))
 			- A man had a **Long** penis. He had a 25 inch long package.
 			- It created difficulties in his life as it was not easy to move around with it and women were afraid of him too.
 			- One day he was wondering to himself how he could change his penis and his life into a normal one while walking down a road, there, he came across a Sage, meditating.
@@ -28,3 +28,6 @@ language:: [[English]]
 			- So, he proposed the frog again, this time, the frog got angry and replied 'NO' 'NO' 'NO'.
 	- ## References
 		- u/sonofabutch, "A man had a [Long] penis," *Reddit r/Jokes*, [[Jul 29th, 2023]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/15c37p7/comment/jttxajm/](https://www.reddit.com/r/Jokes/comments/15c37p7/comment/jttxajm/). [Accessed: [[Aug 13th, 2023]] ].
+		- u/RAl3l3Y, "A man had a [Long] penis," *Reddit r/Jokes*, [[Jul 29th, 2023]]. [Format: Online]. Available: [https://www.reddit.com/r/Jokes/comments/15c37p7/a_man_had_a_long_penis/](https://www.reddit.com/r/Jokes/comments/15c37p7/a_man_had_a_long_penis/). [Accessed: [[Aug 13th, 2023]] ].
+		  type:: [[Web Page]]
+		  id:: 64d8bc86-6cd3-4cb0-b8da-5d1409346168
