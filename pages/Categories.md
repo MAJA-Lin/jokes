@@ -1,3 +1,4 @@
 ## [[NSFW]]
 - ## [Long Story]([[long]])
-- ## [Short Story]
+- ## [Short Story]([[short]])
+-
