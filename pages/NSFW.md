@@ -9,8 +9,8 @@ alias:: Not Safe For Work
   {
       :title [:h2 "All Pages"]
       :query [:find (pull ?p [*])
-          :in $ ?current-page
-          :where
+      :in $ ?current-page
+      :where
           (page-property ?p :categories ?current-page)
       ]
       :inputs [:current-page]
