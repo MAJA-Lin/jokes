@@ -11,7 +11,9 @@ alias:: Not Safe For Work
       :query [:find (pull ?p [*])
       :in $ ?current-page
       :where
-          (page-property ?p categories ?current-page)
+          [?p :page/properties ?pr]
+          [(get ?pr :categories) ?cat]
+          [?cat "NSFW"]
       ]
       :inputs [:current-page]
   }
