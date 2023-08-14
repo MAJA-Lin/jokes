@@ -1,0 +1,17 @@
+{
+    "hosting": {
+      "target": "fortune-teller-0815f",
+      "public": "www",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "www/index.html"
+        }
+      ]
+    }
+  }
