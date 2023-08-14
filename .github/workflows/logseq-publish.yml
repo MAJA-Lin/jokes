@@ -39,9 +39,6 @@ jobs:
           folder: www # The folder the action should deploy.
           clean: true
 
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
       - name: deploy to firebase hosting live channel
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
