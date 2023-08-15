@@ -39,6 +39,11 @@ jobs:
           folder: www # The folder the action should deploy.
           clean: true
 
+      - name: Setup Firebaserc file
+        run: |
+          touch $GITHUB_WORKSPACE/.firebaserc
+          echo "${{ secrets.FIREBASE_RC }}" > $GITHUB_WORKSPACE/.firebaserc
+
       - name: deploy to firebase hosting live channel
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
