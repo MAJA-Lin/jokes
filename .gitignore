@@ -105,6 +105,3 @@ dist
 
 # Mac
 .DS_Store
-
-# Firebase configuration
-.firebaserc

@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "exploded-bookshelf"
+  },
+  "targets": {
+    "exploded-bookshelf": {
+      "hosting": {
+        "fortune-teller-0815f": [
+          "fortune-teller-0815f"
+        ]
+      }
+    }
+  }
+}
