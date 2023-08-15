@@ -1,5 +1,6 @@
 - Shows a random joke.
-- {:title "Give me a random page!!!"
+- #+BEGIN_QUERY
+  {:title "Give me a random page!!!"
    :query [:find ?name
            :where
            [?b :block/name ?name]]
@@ -10,3 +11,5 @@
           (**for** [page result]
             [:a {:href (str "/#/page/" page)} (clojure.string/capitalize page)])])
    :collapsed? false}
+  #+END_QUERY
+-
