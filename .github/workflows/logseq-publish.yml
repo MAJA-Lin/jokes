@@ -24,10 +24,17 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
+      # The official action for publish SPA; currently not working well with empty content
+    #   - name: Logseq Publish
+    #     uses: logseq/publish-spa@v0.2.0
+    #     with:
+    #       theme-mode: light
+
+      # Publish action by other contributor
       - name: Logseq Publish
-        uses: logseq/publish-spa@v0.2.0
+        uses: pengx17/logseq-publish@main
         with:
-          theme-mode: light
+          version: latest
 
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
