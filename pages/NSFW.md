@@ -3,7 +3,7 @@ alias:: Not Safe For Work
 
 -
 - query-properties:: [:page :alias :tags]
-  query-sort-by:: page
+  query-sort-by:: updated-at
   query-sort-desc:: true
   #+BEGIN_QUERY
   {
