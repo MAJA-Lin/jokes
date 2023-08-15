@@ -2,8 +2,6 @@
 	- ## Joke Page
 		- template:: Joke/Page
 		  properties::
-		  title::
-		  alias::
 		  rank::
 		  categories::
 		  tags::
@@ -29,7 +27,7 @@
 		  notion-ref:: link
 		  page::
 		  title::
-
+		  
 		  content
 - # Query Template
 	- ## Query Tag With Current Page (Only Works For Lowercase)
