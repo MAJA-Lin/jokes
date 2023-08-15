@@ -414,4 +414,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
- :default-home {:page "General Audiences"}}
+ :default-home {:page "A Teacher Asks The Kids In Her 3rd Grade Class"}}
