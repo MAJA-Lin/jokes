@@ -1,7 +1,7 @@
 properties::
 rank::
 categories:: [[GA]], [[long]]
-tags:: #blonde, #magic
+tags:: #blonde, #magic, #restaurant 
 language:: [[English]]
 
 	- ## Note
